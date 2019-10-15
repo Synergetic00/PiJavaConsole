@@ -1,4 +1,4 @@
-The "macquarie mini console" is:
+The aim of this project is to create a Processing / Java emulator that is able to run on 
 
   * A Raspberry Pi image setup for JavaFX rendering directly to the frame buffer and including the source code for,
   * A JavaFX application that showcases games made by Macquarie University Students in CS1/computing 101.  The Java application can be run on any computer for easy experimentation.
